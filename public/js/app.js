@@ -1,4 +1,3 @@
-console.log('Client side jafascript is loaded.1')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
 //     response.json().then((data) => {
